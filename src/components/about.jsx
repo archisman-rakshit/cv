@@ -12,13 +12,13 @@ const About = () => {
                                     <div className="about-desc">
                                         <span className="heading-meta">About Me</span>
                                         <h2 className="colorlib-heading">Who Am I?</h2>
-                                        <p>I am a computer graduate student from Heritage Institute of
-                                            technology,Kolkata with CSE as my major.
-                                            I am currently pursuing my MTech under the WILP programme of BITS Pilani
+                                        <p>I am a Computer science graduate from Heritage Institute of
+                                            technology,Kolkata .
+                                            I am currently pursuing MTech under the WILP programme of BITS Pilani
                                             while working
                                             full time in SAP Labs India under their Scholar@SAP Programme
                                         </p>
-                                        <p> I love exploring new tech and am always interested in learning about new
+                                        <p> I love exploring new technologies and am always interested in learning about new
                                             developments in the ICT domain.
                                             I also love playing games and if I am not coding, you will often find me
                                             playing some game.
@@ -36,7 +36,7 @@ const About = () => {
                         <div className="col-md-5 col-md-offset-3 col-md-pull-3 animate-box"
                              data-animate-effect="fadeInLeft">
                             <span className="heading-meta">What I do?</span>
-                            <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                            <h2 className="colorlib-heading">Areas of expertise</h2>
                         </div>
                     </div>
                     <div className="row row-pt-md">

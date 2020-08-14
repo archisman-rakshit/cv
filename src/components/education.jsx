@@ -8,7 +8,7 @@ const Education = () => {
                     <div className="row">
                         <div className="col-md-5 col-md-offset-3 col-md-pull-3 animate-box"
                              data-animate-effect="fadeInLeft">
-                            <h2 className="colorlib-heading">Here are my educational qualifications</h2>
+                            <h2 className="colorlib-heading">Educational qualifications</h2>
                         </div>
                     </div>
                     <div className="row row-pt-md">
