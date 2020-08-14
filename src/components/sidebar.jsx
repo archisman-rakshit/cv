@@ -17,6 +17,7 @@ const Sidebar = () => {
                               <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
                               <li><a href="#about" data-nav-section="about">About</a></li>
                               <li><a href="#workexp" data-nav-section="work-experience">Work Experience</a></li>
+                              <li><a href="#education" data-nav-section="education">Education</a></li>
                               <li><a href="#projects" data-nav-section="projects">Personal Projects</a></li>
                           </ul>
                       </div>
