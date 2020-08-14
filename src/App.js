@@ -2,6 +2,7 @@ import React from 'react';
 
 import Sidebar from './components/sidebar'
 import About from "./components/about";
+import Introduction from "./components/introduction";
 
 import './App.css';
 
@@ -11,7 +12,8 @@ function App() {
         <div id="container-wrap">
           <Sidebar />
             <div id="colorlib-main">
-                <About></About>
+                <Introduction />
+                <About />
             </div>
         </div>
       </div>
