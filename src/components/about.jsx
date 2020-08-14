@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
     return (
-        <div style={{marginTop: -30 + "rem"}}>
+        <div>
             <section className="colorlib-about" data-section="about">
                 <div className="colorlib-narrow-content">
                     <div className="row">

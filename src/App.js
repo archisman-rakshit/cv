@@ -4,6 +4,7 @@ import Sidebar from './components/sidebar'
 import About from "./components/about";
 import Introduction from "./components/introduction";
 import Work from "./components/work_exp";
+import Education from "./components/education";
 
 import './App.css';
 
@@ -16,6 +17,7 @@ function App() {
                 <Introduction />
                 <About />
                 <Work />
+                <Education />
             </div>
         </div>
       </div>
