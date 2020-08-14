@@ -3,6 +3,7 @@ import React from 'react';
 import Sidebar from './components/sidebar'
 import About from "./components/about";
 import Introduction from "./components/introduction";
+import Work from "./components/work_exp";
 
 import './App.css';
 
@@ -14,6 +15,7 @@ function App() {
             <div id="colorlib-main">
                 <Introduction />
                 <About />
+                <Work />
             </div>
         </div>
       </div>
