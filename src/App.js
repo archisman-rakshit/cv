@@ -5,6 +5,7 @@ import About from "./components/about";
 import Introduction from "./components/introduction";
 import Work from "./components/work_exp";
 import Education from "./components/education";
+import Personal from "./components/PresonalProjects";
 
 import './App.css';
 
@@ -18,6 +19,7 @@ function App() {
                 <About />
                 <Work />
                 <Education />
+                <Personal />
             </div>
         </div>
       </div>
